@@ -1,0 +1,10 @@
+#игнорирование всей папки tmp
+tmp/
+#игнорирование _old
+*_old
+#игнорирование _backup
+*_backup
+#игнорирование Thumbs.db
+Thumbs.db
+#игнорирование.DS_Store
+.DS_Store
